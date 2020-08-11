@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 I am Windows, yes I know very nice name B). I'm a NodeJs developer. Email: windows@valvesoftware.ca
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FSevereSecretHarborporpoise-size_restricted.gif&f=1&nofb=1])
+![Windows's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave&count_private=true)
