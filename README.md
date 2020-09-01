@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 I am Windows, yes I know very nice name B). I'm a NodeJs developer. Email: windows@valvesoftware.ca
 
-Current Projects: http://cheybot.xyz
+Current Projects: 
+A discord bot: http://cheybot.xyz
+Botrix: https://botrix.tk/
+
 
 ![Windows's github stats](https://github-readme-stats.vercel.app/api?username=windowscmd&show_icons=true&theme=synthwave&count_private=true)
