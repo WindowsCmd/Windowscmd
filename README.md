@@ -18,7 +18,7 @@ I am Windows i am a she/her, i love to program. I'm a NodeJs developer. Email: w
 
 Current Projects: 
 A discord bot: http://cheybot.xyz
-Botrix: https://botrix.tk/
+Botrix: https://botrix.cc/
 
 
 ![Windows's github stats](https://github-readme-stats.vercel.app/api?username=windowscmd&show_icons=true&theme=synthwave&count_private=true)
