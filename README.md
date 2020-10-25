@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Windows i love to program. I'm a NodeJs developer. Email: windows@valvesoftware.ca
+I am Windows i love to program. I'm a NodeJs, C, C++, Python developer. Email: windows@valvesoftware.ca
 
 Current Projects: 
 A discord bot: http://cheybot.xyz
