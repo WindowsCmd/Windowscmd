@@ -16,6 +16,26 @@ Here are some ideas to get you started:
 
 I am Windows i love to program. I'm a NodeJs, C, C++, Python developer. Email: windows@valvesoftware.ca
 
+```js
+
+export const WindowsCMD = {
+  pronouns: ["she", "her"],
+  working_on: "Botrix.cc" || "Tritan.gg",
+  languages: ["Typescript", "Node.js", "C#", "CPP"],
+  technologies: {
+    frontend: {
+      libraries: ["react", "angular", "ejs"],
+      css: ["css3", "bootstrap", "scss"]
+    },
+    backend: {
+      js: ["Express.js", "Discord.js", "Node.js", "typescript"],
+      rust: ["rocket"]
+    },
+    databases: ["MongoDB", "MySql", "PostgreSQL"]
+  }
+}
+```
+
 Current Projects: 
 A discord bot: http://cheybot.xyz
 Botrix: https://botrix.cc/
