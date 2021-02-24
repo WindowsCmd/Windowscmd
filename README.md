@@ -31,7 +31,7 @@ export const WindowsCMD = {
       js: ["Express.js", "Discord.js", "Node.js", "typescript"],
       rust: ["rocket"]
     },
-    databases: ["MongoDB", "MySql", "PostgreSQL"]
+    databases: ["MongoDB", "MySql", "PostgreSQL", "Redis"]
   }
 }
 ```
