@@ -20,7 +20,7 @@ I am Windows i love to program. I'm a NodeJs, C, C++, Python developer. Email: w
 
 export const WindowsCMD = {
   pronouns: ["she", "her"],
-  working_on: "Botrix.cc" || "Tritan.gg",
+  working_on: "Botrix.cc" || "dmod.gg",
   languages: ["Typescript", "Node.js", "C#", "CPP"],
   technologies: {
     frontend: {
