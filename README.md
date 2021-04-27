@@ -1,4 +1,4 @@
-### (●´ω｀●)
+# (●´ω｀●)
 <!--
 **WindowsCmd/Windowscmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Windows i love to program. I'm a C#, NodeJs, C, C++, Python developer. If you are look to get in touch with me do so through my email: windows@valvesoftware.ca
+Hello! I'm Windows, a C#, NodeJs, C, C++, Python developer. If you are look to get in touch with me do so through my email: windows@valvesoftware.ca
 
 ```js
 
