@@ -1,4 +1,4 @@
-### Hai uwu 
+### (●´ω｀●)
 <!--
 **WindowsCmd/Windowscmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Windows i love to program. I'm a NodeJs, C, C++, Python developer. Email: windows@valvesoftware.ca
+I am Windows i love to program. I'm a C#, NodeJs, C, C++, Python developer. If you are look to get in touch with me do so through my email: windows@valvesoftware.ca
 
 ```js
 
@@ -36,9 +36,6 @@ export const WindowsCMD = {
 }
 ```
 
-Current Projects: 
-A discord bot: http://cheybot.xyz
-Botrix: https://botrix.cc/
 
 
-![Windows's github stats](https://github-readme-stats.vercel.app/api?username=windowscmd&show_icons=true&theme=synthwave&count_private=true)
+
