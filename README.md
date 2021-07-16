@@ -20,7 +20,7 @@ Hello! I'm Windows, a C#, NodeJs, C, C++, Python developer. If you are look to g
 
 export const WindowsCMD = {
   pronouns: ["she", "her"],
-  working_on: "Botrix.cc" || "dmod.gg",
+  working_on: "airlock.sh",
   languages: ["Typescript", "Node.js", "C#", "CPP"],
   technologies: {
     frontend: {
