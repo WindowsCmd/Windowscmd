@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I'm Windows, a C#, NodeJs, C, C++, Python developer. If you are look to get in touch with me do so through my email: windows@valvesoftware.ca
+Hello! I'm Astrid, a C#, NodeJs, C, C++, Python developer. If you are look to get in touch with me do so through my email: me@astrid.moe
 
 ```js
 
