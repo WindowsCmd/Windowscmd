@@ -21,15 +21,16 @@ Hello! I'm Astrid, a C#, NodeJs, C, C++, Python developer. If you are look to ge
 export const WindowsCMD = {
   pronouns: ["she", "her"],
   working_on: "airlock.sh",
-  languages: ["Typescript", "Node.js", "C#", "CPP"],
+  languages: ["Typescript", "Go", "PHP", "C#", "CPP"],
   technologies: {
     frontend: {
-      libraries: ["react", "angular", "ejs"],
-      css: ["css3", "bootstrap", "scss"]
+      libraries: ["react", "vue", "angular"],
+      css: ["tailwindcss", "bootstrap", "scss"]
     },
     backend: {
       js: ["Express.js", "Discord.js", "Node.js", "typescript"],
-      rust: ["rocket"]
+      rust: ["rocket"],
+      go: ["Fiber"]
     },
     databases: ["MongoDB", "MySql", "PostgreSQL", "Redis"]
   }
