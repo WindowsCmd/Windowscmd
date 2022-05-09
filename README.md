@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I'm Astrid, a C#, NodeJs, C, C++. If you are look to get in touch with me do so through my email: me@astrid.moe
+Hello! I'm Astrid, a C#, NodeJs, C, C++ developer. If you are look to get in touch with me do so through my email: me@astrid.moe
 
 ```js
 
