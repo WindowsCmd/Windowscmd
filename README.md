@@ -39,5 +39,5 @@ export const WindowsCMD = {
 
 
 ```math
-\ce{$\unicode[goombafont; color:pink; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://media.tenor.com/LHIJkVuoJngAAAAj/speech-bubble-silly-cat.gif');  ]{x0000}$}
+\ce{$\unicode[goombafont; color:pink; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/WindowsCmd/Windowscmd/master/car.jpg');  ]{x0000}$}
 
